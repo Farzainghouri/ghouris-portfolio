@@ -5,7 +5,7 @@
 
 Welcome to the GitHub repository for Ghouri's Portfolio Website! :star: This project showcases my skills and projects as a Fullstack Developer. The website is created entirely using HTML, CSS, and JavaScript. The portfolio website is designed to be responsive and visually stunning, providing visitors with a flawless and awesome experience across various devices.
 
-Visit the live website Preview : [Ghouri's Portfolio](ghouris-portfolio.netlify.app)
+Visit the live website Preview : [Ghouri's Portfolio](https://ghouris-portfolio.netlify.app/)
 
 ## Table of Contents
 
