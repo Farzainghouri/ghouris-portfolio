@@ -42,7 +42,7 @@ To run the portfolio website locally on your machine, follow these steps:
 
 1. Clone the GitHub repository to your local machine:
    ```
-   git clone https://github.com/davyleroy/Portfolio.git
+   git clone https://github.com/Farzainghouri/ghouris-portfolio.git
    ```
 2. Open the `index.html` file in your web browser.
 
