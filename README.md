@@ -55,5 +55,6 @@ Once the website is loaded, navigate through the different sections to explore m
 You can contact Me on any socials of Mine :wink: . 
 
 ## Resources and acknowledgment
-Thanks for the support in helping and contributing to the orchestration of my masterpiece guys :pray: :+1:
+
+
 Thank you for visiting this repository and checking out my Portfolio Website! I hope you enjoy exploring the projects and skills showcased here.:muscle:
