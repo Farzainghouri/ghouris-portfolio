@@ -26,7 +26,7 @@ My Portfolio Website includes the following sections:
 
 2. **Skills Section**: Highlights my various technical skills possessed, which showcases his expertise in Fullstack (Frontend & Backend) Development.
 
-3. **Contact Section**: Provides visitors with a means to get in touch with Jacob Aiden for potential collaboration or inquiries.
+3. **Contact Section**: It provides visitors with a way to get in touch with me for potential collaboration or inquiries.
 
 ## Technologies Used
 
